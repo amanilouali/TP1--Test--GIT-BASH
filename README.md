@@ -1,2 +1,2 @@
-# TP1--Test--GIT-BASH
-"Repo for testing GIT-BASH"
+# TP1--Test--GITHUB-Desktop
+"Repo for testing GITHUB-Desktop"
